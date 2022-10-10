@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mukta:700');
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .play{
+    width: 300px;
+    height: 100px;
+    border: none;
+    color: white;
+    background-color: rgb(0, 166, 255) ;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #064bf9;
+    transition: ease-out 0.3s;
+    font-size: 2rem; 
+    outline: none;
+  }
+  .play:hover{
+    box-shadow: inset 300px 0 0 0 #0a06ec;
+  cursor: pointer;
+  color: #000;
+  }
+  .info1 {
+    width: 300px;
+    height: 100px;
+    border: none;
+    color: white;
+    background-color: rgb(0, 166, 255) ;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #064bf9;
+    transition: ease-out 0.3s;
+    font-size: 2rem; 
+    outline: none;
+  }
+  .info1:hover{
+    box-shadow: inset 300px 0 0 0 #0a06ec;
+  cursor: pointer;
+  color: #000;
+  }
